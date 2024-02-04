@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roche Waldinho
 - 👀 I’m interested in Data Science and Marketing
 - 🌱 I’m currently learning Mathematics at the UA
-- 💞️ I’m looking to collaborate on Backen Developpement
+- 💞️ I’m looking to collaborate on Backend Developpement
 - 📫 You can reach me here : LinkedIn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Reading Scientific book
